@@ -40,21 +40,20 @@ public class App {
 
         System.out.print("\u001b[37m \u001b[46m  \u001b[m");
         System.out.print("Opção 2 - Escolher filme por nota");
-        System.out.print("\u001b[37m\u001b[46m \n\u001b[m");
+        System.out.print("\u001b[37m\u001b[46m \u001b[m\n");
 
         System.out.print("\u001b[37m \u001b[46m  \u001b[m");
-        System.out.print("Opção 3 - Sair                  ");
-        System.out.print("\u001b[37m \u001b[46m \n\u001b[m");
+        System.out.print("Opção 3 - Sair                   ");
+        System.out.print("\u001b[37m\u001b[46m \u001b[m\n");
 
         System.out.println("\u001b[37m \u001b[46m                                    \u001b[m");
         System.out.println();
         System.out.print("Digite uma opção: ");
         int opcao = scan.nextInt();
-     System.out.println(opcao);
 
      switch (opcao) {
         case 1:
-            System.out.println("\nOpção todos os filmes");
+            System.out.println("\nVer os 250 filmes");
                
          // exibir os filmes
          for (Map<String,String> filme : listaDeFilmes) {
@@ -68,10 +67,11 @@ public class App {
             break;
 
         case 2:
-            System.out.println("\nOpção filmes por nota\n");
+            System.out.print("\nEscolher filme por nota\n");
             System.out.print("Digite a nota: ");
             float notausuario = scan.nextFloat();
-            
+            System.out.println("");
+
                 for (Map<String,String> filme : listaDeFilmes) {
                     
                     //converte a nota de String para float
