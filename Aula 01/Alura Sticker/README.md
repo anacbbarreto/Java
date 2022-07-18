@@ -1,18 +1,9 @@
-## Getting Started
+IMERSÃO JAVA - CONSUMINDO UMA API DE FILMES COM JAVA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Primeira aula onde tivemos que construir uma aplicação do zero consumindo a API do IMDb para exibir os filmes mais populares. 
+No projeto construí um pequeno menu, onde poderá buscar todos os filmes ou trazer realizar a busca pela nota informada. 
 
-## Folder Structure
+ <img width="960" alt="alura" src="https://user-images.githubusercontent.com/64232721/179624675-0ad902d4-2281-4ec8-86e5-aa4d62735cc8.PNG">
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#java #alura #imersao #aluraonline #dev #backend #programação #tecnologia
