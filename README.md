@@ -10,3 +10,11 @@ Cursos concluidos do Alura.
   
  ## ALURA - IMERSÃO JAVA
 * CONSUMINDO UMA API DE FILMES COM JAVA
+
+
+ ## ALURA - Java JRE e JDK: compile e execute o seu programa
+* JVM, JDK, JRE
+* Compilando e executando código java
+* Aprenda a usar Eclipse
+* Variáveis e controle de fluxo
+* Conheça os principais tipos do Java
